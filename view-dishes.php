@@ -24,14 +24,14 @@
             </div>
             <div class="col-md-4 d-flex justify-content-center" style="height:300px;">
                 <a href="product-category.php?id=<?php echo $veg_view_id; ?>&type=top-category">
-                    <img src="assets/uploads/non_veg.jpg" class="img-rounded" alt="Veg Dish"style="height:250px;border-top-left-radius: 20px;border-top-right-radius: 20px;" >
+                    <img src="assets/uploads/veg.jpg" class="img-rounded" alt="Veg Dish"style="height:250px;border-top-left-radius: 20px;border-top-right-radius: 20px;" >
                 </a>
             </div>
             <div class="col-md-4">
             </div>
             <div class="col-md-4" style="height:300px;">
                 <a href="product-category.php?id=<?php echo $non_veg_view_id; ?>&type=top-category">
-                    <img src="assets/uploads/non_veg_banner.png" class="img-rounded" alt="Non Veg Dish" style="height:250px;border-top-left-radius: 20px;border-top-right-radius: 20px;" >
+                    <img src="assets/uploads/non_veg.png" class="img-rounded" alt="Non Veg Dish" style="height:250px;border-top-left-radius: 20px;border-top-right-radius: 20px;" >
                 </a>
             </div>
             <div class="col-md-4">
