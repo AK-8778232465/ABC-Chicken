@@ -6,16 +6,16 @@ ini_set('error_reporting', E_ALL);
 date_default_timezone_set('America/Los_Angeles');
 
 // Host Name
-$dbhost = 'sql304.epizy.com';
+$dbhost = 'localhost';
 
 // Database Name
 $dbname = 'epiz_32968153_abc';
 
 // Database Username
-$dbuser = 'epiz_32968153';
+$dbuser = 'root';
 
 // Database Password
-$dbpass = '9cLcFv93ECj8qM';
+$dbpass = '';
 
 // Defining base url
 define("BASE_URL", "");
